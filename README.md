@@ -32,8 +32,10 @@
 * Предоставление пользователям полного перечня CRUD-операций в зависимости от роли пользователя
 * Предоставление функции фильтрации пользоватей по именам, типам и времени последнего визита
 
-Форма авторизации
-<img width="378" alt="image" src="https://github.com/user-attachments/assets/e78d7512-b1d7-4616-a536-17473195ecb4">
+
+
+![Описание скриншота]((https://github.com/user-attachments/assets/e78d7512-b1d7-4616-a536-17473195ecb4))
+<figcaption align="center">Форма авторизации</figcaption>
 
 Таблица для просмотра пользователей
 <img width="1412" alt="image" src="https://github.com/user-attachments/assets/40815285-37ab-45e9-9c5c-c731d2796778">
