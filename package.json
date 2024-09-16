@@ -48,5 +48,6 @@
   },
   "devDependencies": {
     "tailwindcss": "^3.4.11"
-  }
+  },
+  "homepage": "http://localhost:3000/viewusers"
 }
