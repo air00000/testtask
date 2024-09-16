@@ -9,20 +9,20 @@
 
   src/
 ├── entities/            # Сущности
-    └── user/         
+│   └── user/         
 ├── features/            # Фичи
-    └── signin/
-    └── editusers/
-    └── viewusers/
-    └── header/
+│   ├── signin/
+│   ├── editusers/
+│   ├── viewusers/
+│   └── header/
 ├── pages/               # Страницы приложения
-    └── signin/
-    └── editusers/
-    └── viewusers/        
+│   ├── signin/
+│   ├── editusers/
+│   └── viewusers/        
 ├── shared/               # Общие ресурсы (store, ui, local JSON files)
-    └── db/
-    └── store/
-    └── ui/             
+│   ├── db/
+│   ├── store/
+│   └── ui/             
 └── index.tsx            # Точка входа приложения
 
 Приложение 
