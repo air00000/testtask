@@ -7,6 +7,7 @@
 - TypeScript
 - React Router
 
+```bash
   src/
 ├── entities/            # Сущности
 │   └── user/         
