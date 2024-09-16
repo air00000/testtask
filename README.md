@@ -1,7 +1,9 @@
 Тестовое задание на позицию Frontend-разработчик
 
-Стек:
+Установка зависимостей - npm install
+Запуск проекта - npm start dev
 
+Стек:
 - React
 - Redux
 - TypeScript
