@@ -91,35 +91,35 @@ export const EditUsersTable = () => {
 
     const columns = [
         {
-            title: 'Login',
+            title: 'Логин',
             dataIndex: 'login',
             key: 'login',
         },
         {
-            title: 'Name',
+            title: 'Имя',
             dataIndex: 'name',
             key: 'name',
         },
         {
-            title: 'User Type',
+            title: 'Тип пользователя',
             dataIndex: ['type', 'name'],
             key: 'type',
         },
         {
-            title: 'Last Visit Date',
+            title: 'Дата последнего визита',
             dataIndex: 'last_visit_date',
             key: 'last_visit_date',
             render: (text: Date) => dayjs(text).format('YYYY-MM-DD HH:mm:ss'),
         },
         {
-            title: 'Actions',
+            title: 'Действия',
             key: 'actions',
             render: (_: any, record: UserInterface) => (
                 <span>
                     <Button
                         icon={<EditOutlined/>}
                         onClick={() => handleEdit(record)}
-                        disabled={!(canEditOrDelete) && !(record.id === currentUserId)}
+                        disabled={!(canEditOrDelete()) && !(record.id === currentUserId)}
                         style={{marginRight: 8}}
                     />
                     <Button
