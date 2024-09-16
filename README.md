@@ -32,17 +32,17 @@
 * Предоставление пользователям полного перечня CRUD-операций в зависимости от роли пользователя
 * Предоставление функции фильтрации пользоватей по именам, типам и времени последнего визита
 
-
-
-![Описание скриншота]((https://github.com/user-attachments/assets/e78d7512-b1d7-4616-a536-17473195ecb4))
-<figcaption align="center">Форма авторизации</figcaption>
+Форма авторизации
+<img width="1400" alt="image" src="https://github.com/user-attachments/assets/55d7af22-9e19-4f0d-86ad-a1caa5e16eeb">
 
 Таблица для просмотра пользователей
-<img width="1412" alt="image" src="https://github.com/user-attachments/assets/40815285-37ab-45e9-9c5c-c731d2796778">
+<img width="1400" alt="image" src="https://github.com/user-attachments/assets/40815285-37ab-45e9-9c5c-c731d2796778">
 
 Таблица редактирования пользователей
-<img width="1410" alt="image" src="https://github.com/user-attachments/assets/c7056b10-84cc-4742-9da1-7f7d64d4ef00">
+<img width="1400" alt="image" src="https://github.com/user-attachments/assets/c7056b10-84cc-4742-9da1-7f7d64d4ef00">
 
 Модальные окна изменения и добавления пользователей
-<img width="546" alt="image" src="https://github.com/user-attachments/assets/16a95a08-f5bc-4ae7-8a09-dd6547dac42f"> <img width="545" alt="image" src="https://github.com/user-attachments/assets/5d1b4e4e-b4c9-4ad0-b8cf-21c604eb1e0d">
+<img width="1400" alt="image" src="https://github.com/user-attachments/assets/9921e2a9-db79-47f6-9bc6-ec8602b321ee">
+<img width="1400" alt="image" src="https://github.com/user-attachments/assets/3af77ace-1efa-4166-a3f7-b3c4388aecef">
+
 
