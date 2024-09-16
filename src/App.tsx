@@ -1,6 +1,5 @@
 import React from 'react';
 import {Route, Routes} from "react-router-dom";
-import SignUp from "./pages/signup/page";
 import SignIn from "./pages/signin/page";
 import {Header} from "./features/header/Header";
 import ViewUsersPage from "./pages/viewusers/page";
@@ -12,7 +11,6 @@ function App() {
             <Header/>
             <Routes>
                 <Route path="/signin" element={<SignIn/>}/>
-                <Route path="/signup" element={<SignUp/>}/>
                 <Route path="/viewusers" element={<ViewUsersPage/>}/>
                 <Route path="/editusers" element={<EditUsersPage/>}/>
             </Routes>
